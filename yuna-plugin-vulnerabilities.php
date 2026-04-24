@@ -3,7 +3,7 @@
  * Plugin Name: Yuna Plugin Vulnerabilities
  * Plugin URI:  https://yunadesign.com
  * Description: Checks installed plugins and themes for vulnerabilities, with manual patching capabilities and an admin dashboard widget.
- * Version:     1.2.0
+ * Version:     1.2.1
  * Author:      Yuna Design
  * Author URI:  https://yunadesign.com
  * Update URI:  https://github.com/yunadesign/yuna-vulnerabilities
