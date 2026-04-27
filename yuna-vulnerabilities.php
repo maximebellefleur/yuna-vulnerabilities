@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Yuna Plugin Vulnerabilities
+ * Plugin Name: Yuna Vulnerabilities
  * Plugin URI:  https://yunadesign.com
  * Description: Checks installed plugins and themes for vulnerabilities, with manual patching capabilities and an admin dashboard widget.
  * Version:     1.2.1
